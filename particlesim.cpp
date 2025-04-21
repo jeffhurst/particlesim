@@ -1,4 +1,4 @@
-// Define this if you're linking against the static version of raylib
+// can remove define if not linking static version
 #define RAYLIB_STATIC
 #include "raylib.h"
 #include <vector>
